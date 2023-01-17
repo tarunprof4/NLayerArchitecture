@@ -1,5 +1,5 @@
-# NLayerArchitecture With Tightly Coupled Inversion of Control
-NLayerArchitecture With Tightly Coupled Inversion of Control
+# NLayerArchitecture With Tightly Coupled Inversion of Control in .Net C#
+NLayerArchitecture With Tightly Coupled Inversion of Control in .Net C#
 
 Endpoint Url- 
 http://localhost:35938/api/Customer
